@@ -1,9 +1,9 @@
 # tsconfck
 
-[![npm version](https://img.shields.io/npm/v/tsconfck)](https://www.npmjs.com/package/tsconfck)
-[![CI](https://github.com/dominikg/tsconfck/actions/workflows/test.yml/badge.svg)](https://github.com/dominikg/tsconfck/actions/workflows/test.yml)
-
 A utility to find and parse tsconfig files without depending on typescript
+
+> [!NOTE]
+> This fork is intended to quickly deliver some patches that [nanobundle](https://github.com/cometkim/nanobundle) relies on and **no longer used**.
 
 # Why
 
